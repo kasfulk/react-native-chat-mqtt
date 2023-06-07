@@ -1,6 +1,3 @@
-Sure! Here's a template for a `README.md` file for a React Native Expo project:
-
-```
 # React Native Chat MQTT
 
 [![Expo](https://img.shields.io/badge/Expo-SDK%2043-blue)](https://docs.expo.io/)
